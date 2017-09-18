@@ -1,0 +1,9 @@
+
+node_modules/
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore bundle files
+bundle.js
+bundle.js.map
